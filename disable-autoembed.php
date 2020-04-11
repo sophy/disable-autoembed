@@ -4,8 +4,8 @@
  * Version: 1.0
  * Description: Disables Auto Embeds in the Visual Editor Preview
  * Author: Sophy
- * Author URI: http://themecountry.com/
- * Plugin URI: http://themecountry.com/disable-autoembed
+ * Author URI: https://ohkhmer.com/
+ * Plugin URI: https://themecountry.com/disable-autoembed
  *
  *
  * License: GPLv2 or later
